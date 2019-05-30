@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557866486084",
+    "firebase_url": "https://messenger-d1d87.firebaseio.com",
+    "project_id": "messenger-d1d87",
+    "storage_bucket": "messenger-d1d87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557866486084:android:8e0d761139c279be",
+        "android_client_info": {
+          "package_name": "academy.learnprogramming.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557866486084-gmdr4ms5iru0gmp5i99n32m3b6jhphga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "academy.learnprogramming.chat",
+            "certificate_hash": "d4fa45720c1e6b8e0385603982469aa8268b48c1"
+          }
+        },
+        {
+          "client_id": "557866486084-hcuq9jctru2ehfufincu6947h7cr3nls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5TdPf9_f9iofci9buFIHATfOW-xZisEY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557866486084-hcuq9jctru2ehfufincu6947h7cr3nls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
